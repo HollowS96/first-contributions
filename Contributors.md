@@ -35,6 +35,7 @@
 - [Nicholas Carnival](https://github.com/majorderp4)
 - [ShubU](http://github.com/shubu)
 - [punisher](https://github.com/punisherpbb)
+- [HollowS96](https://github.com/HollowS96)
 - [Lakshay Wadhwa](http://github.com/luck-u)
 - [Wathsara Daluwatta](http://github.com/Wathsara)
 - [Vast Peng](https://github.com/keatingsmith)
